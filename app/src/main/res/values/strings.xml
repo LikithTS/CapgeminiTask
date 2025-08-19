@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CapgeminiTask</string>
+    <string name="money_transfer">Money Transfer</string>
+    <string name="domestic">Domestic</string>
+    <string name="international">International</string>
+    <string name="recipient_name">Recipient Name</string>
+    <string name="account_number">Account Number</string>
+    <string name="amount">Amount</string>
+    <string name="iban_number">IBAN</string>
+    <string name="swift_code">Swift Code</string>
+    <string name="send_money">Send Money</string>
+</resources>
